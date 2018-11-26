@@ -792,7 +792,8 @@
 
     .show-balance-span{
         font-size: 18px;
-        margin-right: 0;
+        margin-right: 0;        
+        display: inline-block !important;
     }
 
     #yourPoolSection .poolContainer{
